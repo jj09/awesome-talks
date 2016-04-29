@@ -75,9 +75,9 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [x] [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams** [21:39]
 * [x] [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** [27:25]
 * [x] [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** [41:42]
-* [ ] [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** [32:07]
-* [ ] [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) by **Ilya Grigorik** [41:10]
-* [ ] [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436) by **Paul Irish** [53:40]
+* [x] [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** [32:07]
+* [x] [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) by **Ilya Grigorik** [41:10]
+* [x] [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436) by **Paul Irish** [53:40]
 * [ ] [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** [46:17]
 
 #####Test-Driven Development
