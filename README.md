@@ -96,7 +96,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [ ] [The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) by **Michael Feathers** [53:58]
 * [x] [Spotify Engineering Culture - Part 1](https://vimeo.com/85490944) by **Spotify Training & Development** [13:12]
 * [x] [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** [13:27]
-* [x] [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble** [47:22]
+* [x] [Adopting Continuous Delivery](https://www.youtube.com/watch?v=ZLBhVEo1OG4) by **Jez Humble** [48:39]
 * [ ] [The Death of Agile](http://www.thoughtworks.com/talks/the-death-of-agile) by **Dave Thomas** [47:47]
 * [ ] [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** [53:03]
 
