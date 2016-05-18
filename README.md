@@ -51,7 +51,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [ ] [Unleash Your Domain](https://vimeo.com/19428577) by **Greg Young** [54:43]
 * [ ] [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans** [54:40]
 * [ ] [Reliability, Availability, and Scalability](https://vimeo.com/6222577) by **Udi Dahan** [1:11:09]
-* [ ] [Implementing Micro Service Architectures](https://vimeo.com/79866979) by **Fred George** [54:40]
+* [x] [Implementing Micro Service Architectures](https://vimeo.com/79866979) by **Fred George** [54:40]
 * [ ] [Immutability Changes Everything](http://vimeo.com/52831373) by **Pat Helland** [45:19]
 * [ ] [Crafting Wicked Domain Models](https://vimeo.com/43598193) by **Jimmy Bogard** [1:03:03]
 * [ ] [The Actor Model](http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by **Hewitt, Meijer and Szyperski** [42:34]
