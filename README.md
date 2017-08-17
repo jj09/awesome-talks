@@ -46,7 +46,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #####Software Design
 
-* [ ] [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin** [1:06:39]
+* [x] [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin** [1:06:39]
 * [ ] [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** [58:48]
 * [ ] [Unleash Your Domain](https://vimeo.com/19428577) by **Greg Young** [54:43]
 * [ ] [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans** [54:40]
